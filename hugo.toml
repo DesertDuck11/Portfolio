@@ -1,7 +1,0 @@
-baseURL = 'https://desertduck11.github.io/Portfolio/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'yassi'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

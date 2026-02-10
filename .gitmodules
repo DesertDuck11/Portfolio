@@ -7,3 +7,7 @@
 [submodule "themes/yassi"]
 	path = themes/yassi
 	url = https://github.com/yassi/hugo-theme-yassi.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
