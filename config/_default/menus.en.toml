@@ -16,15 +16,37 @@
   weight = 10
 
 [[main]]
-  name = "Socratic Smackdown"
-  parent = "Projects"
-  pageref = "projects/socratic-smackdown.md"
+  name = "Games"
+  pageRef = "games"
   weight = 20
 
 [[main]]
+  name = "Socratic Smackdown"
+  parent = "Games"
+  pageref = "games/socratic-smackdown/"
+  weight = 10
+
+[[main]]
   name = "Cthulhu & Me"
-  parent = "Projects"
-  pageref = "projects/cthulhu-and-me.md"
+  parent = "Games"
+  pageref = "games/cthulhu-and-me/"
+  weight = 20
+
+[[main]]
+  name = "Tools"
+  pageRef = "tools"
+  weight = 30
+
+[[main]]
+  name = "Save Manager"
+  parent = "Tools"
+  pageref = "tools/save-manager/"
+  weight = 10
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 40
 
 #[[main]]
 #  name = "Parent"
@@ -78,3 +100,6 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+  none = "none"

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Outfit;
+    src: url('/fonts/Outfit-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Outfit-Regular;
+    src: url('/fonts/Outfit-Regular.ttf');
+}
+
+@font-face {
+    font-family: Outfit-SemiBold;
+    src: url('/fonts/Outfit-SemiBold.ttf');
+}
+
+html {
+    font-size: 16px;
+    font-family: Outfit, sans-serif;
+}
+
+.max-w-prose{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

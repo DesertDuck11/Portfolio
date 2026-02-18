@@ -3,26 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/Portfolio/projects/cthulhu-and-me/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/games/socratic-smackdown/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Portfolio/projects/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/games/cthulhu-and-me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Portfolio/projects/socratic-smackdown/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/tools/save-manager/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/games/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/Portfolio/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/projects/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/resume/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/tools/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

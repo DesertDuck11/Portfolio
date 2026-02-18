@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Json on Benjamin Trudell</title>
+    <link>http://localhost:1313/Portfolio/tags/json/</link>
+    <description>Recent content in Json on Benjamin Trudell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Benjamin Trudell</copyright>
+    <atom:link href="http://localhost:1313/Portfolio/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Save Manager</title>
+      <link>http://localhost:1313/Portfolio/tools/save-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tools/save-manager/</guid>
+      <description>A simple tool made for Unity 6 that allows the user to save and load data back from files with ease</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Portfolio/tools/save-manager/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Benjamin Trudell</title>
+    <link>http://localhost:1313/Portfolio/tags/other/</link>
+    <description>Recent content in Other on Benjamin Trudell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>desertduck4@gmail.com (Benjamin Trudell)</managingEditor>
+    <webMaster>desertduck4@gmail.com (Benjamin Trudell)</webMaster>
+    <copyright>© 2026 Benjamin Trudell</copyright>
+    <atom:link href="http://localhost:1313/Portfolio/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anisotropic A* Pathfinding</title>
+      <link>http://localhost:1313/Portfolio/projects/anisotropic-pathfinding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>desertduck4@gmail.com (Benjamin Trudell)</author>
+      <guid>http://localhost:1313/Portfolio/projects/anisotropic-pathfinding/</guid>
+      <description>This article is about anisotropic A* pathfinding</description>
+      
+    </item>
+    
+  </channel>
+</rss>
