@@ -19,11 +19,17 @@ Cthulhu & Me is a 3D third-person roguelike boomer-shooter where, on a bright su
 Play as this little girl in the world of dreams, her dreams. Battle monstrosities and terrors created by Cthulhu as you navigate through a maze of randomized
 rooms while collecting a variety of imaginary weapons such as the legendary crayon shotgun.
 
+<div style="float: right; width: 100%; max-width: 550px; margin-left: 100px; margin-bottom: 150px; position: relative;">
+  <iframe 
+    src="https://itch.io/embed/3496510?bg_color=2F5AAD&fg_color=F7FF00&link_color=038F34" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 165px;">
+  </iframe>
+</div>
+
+<img src="BlackboardGif.gif" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:-25px;">
+
 <br><br><br><br><br><br><br><br><br><br>
-
-<iframe frameborder="0" src="https://itch.io/embed/3496510?bg_color=2F5AAD&fg_color=F7FF00&link_color=038F34" width="550" height="165" style="float: right; margin-left:100px"><a href="https://snspkfre.itch.io/cthulhu-and-me">Cthulhu and Me by vctr, MaximoSchro, Blazing BRO, spareuidesigner</a></iframe>
-<img src="BlackboardGif.gif" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:-75px;">
-
 
 # Project Details
 
@@ -37,7 +43,7 @@ rooms while collecting a variety of imaginary weapons such as the legendary cray
 
 * Built using Scrum and Agile methodologies
 
-<br><br>
+<br>
 
 # Level Manager
 
@@ -46,5 +52,5 @@ Created a level manager tool in order to help my designers created the randomize
 * Learned how to use the Editor class
 * Learned how to serialize Unity scenes when making an editor tool
 
-<img src="levelManager1.png" alt="My Image" style="float: left; width:475px; margin-right:20px; margin-top:50px;">
-<img src="levelManager2.png" alt="My Image" style="float: left; width:475px; margin-right:20px; margin-top:50px;">
+<img src="levelManager1.png" alt="My Image" style="float: left; width:475px; margin-right:20px; margin-top:0px;">
+<img src="levelManager2.png" alt="My Image" style="float: left; width:475px; margin-right:20px; margin-top:0px;">

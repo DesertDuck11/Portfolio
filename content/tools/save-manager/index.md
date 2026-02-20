@@ -8,9 +8,9 @@ tags: ['Unity', 'C#', 'JSON']
 featured: true
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 100px; margin-top: 0px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px; margin-top: 0px">
 
-  <div style="flex: 1;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
 
 # About This Project
 
@@ -26,7 +26,8 @@ Features:
 * Ability to save non-traditional variables
 
   </div>
-  <div style="flex: 1; min-width: 500px; margin-top: -25px;">
+
+  <div style="float: right; min-width: 250px; width: 500px; max-width: 650px; margin-top: -20px; gap: 20px">
 
 ```csharp
 using UnityEngine;
@@ -54,8 +55,7 @@ public class Example : MonoBehaviour
     }
 }
 ```
-
-  </div> 
+  </div>
 </div>
 
 <br>

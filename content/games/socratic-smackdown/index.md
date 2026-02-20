@@ -8,10 +8,14 @@ tags: ['Unity', 'C#']
 featured: true
 ---
 
-<iframe width="600" height="338" style="float: left; margin-right: 20px; margin-bottom: 50px"
+
+<div style="float: left; width: 100%; max-width: 550px; margin-right: 20px; margin-bottom: 50px;">
+  <iframe 
     src="https://www.youtube.com/embed/TkTGDHL3t8U"
-    allowfullscreen>
-</iframe>
+    allowfullscreen
+    style="width: 100%; height: 338px;">
+  </iframe>
+</div>
 
 # About This Game
 
@@ -19,8 +23,15 @@ Socratic Smackdown is a 2.5D platform fighter where you play as animalized versi
 
 Do cool combos, use special philosophy-inspired moves, and send opponents flying off the stage in a fun-for-all fighting game experience!
 
-<iframe frameborder="0" src="https://itch.io/embed/4274440?border_width=0&dark=true" width="550" height="165" style="float:right; margin-left: 100px; margin-bottom: 20px;">Socratic Smackdown by Good Enouf Studios, vxheme, ZacharyKilmer</iframe>
-<img src="SharkratesRender1.png" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:0px;">
+<div style="float: right; width: 100%; max-width: 550px; margin-left: 100px; margin-bottom: 150px; position: relative;">
+  <iframe 
+    src="https://itch.io/embed/4274440?border_width=0&dark=true" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 165px;">
+  </iframe>
+</div>
+
+<img src="SharkratesRender1.png" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:20px;">
 
 <br><br>
 
