@@ -21,11 +21,15 @@ rooms while collecting a variety of imaginary weapons such as the legendary cray
 
 <div style="float: right; width: 100%; max-width: 550px; margin-left: 100px; margin-bottom: 150px; position: relative;">
   <iframe 
-    src="https://itch.io/embed/3496510?bg_color=2F5AAD&fg_color=F7FF00&link_color=038F34" 
+    src="https://itch.io/embed/3496510?border_width=0&dark=true" 
     frameborder="0" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 165px;">
   </iframe>
 </div>
+
+<!--
+/*"https://itch.io/embed/3496510?bg_color=2F5AAD&fg_color=F7FF00&link_color=038F34"*/
+-->
 
 <img src="BlackboardGif.gif" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:-25px;">
 
