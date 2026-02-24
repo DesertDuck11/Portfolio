@@ -29,7 +29,7 @@ rooms while collecting a variety of imaginary weapons such as the legendary cray
 
 <img src="BlackboardGif.gif" alt="My Image" width = "550" style="float: right; margin-left:20px; margin-bottom:-25px;">
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Project Details
 
